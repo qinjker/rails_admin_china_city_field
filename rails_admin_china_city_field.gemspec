@@ -7,8 +7,8 @@ require "rails_admin_china_city_field/version"
 Gem::Specification.new do |s|
   s.name        = "rails_admin_china_city_field"
   s.version     = RailsAdminChinaCityField::VERSION
-  s.authors     = ["tangmonk"]
-  s.email       = ["wytwyt02@gmail.com"]
+  s.authors     = ["jack"]
+  s.email       = ["qinshenyong@socialdatamax.com"]
   s.homepage    = ""
   s.summary     = "Summary of RailsAdminChinaCityField."
   s.description = "Description of RailsAdminChinaCityField."
